@@ -4,11 +4,11 @@
 
 ## In Arbeit
 
-![](./in-progress.png)
+![](./in-progress.PNG)
 
 ## Im Test
 
-![](./test.png)
+![](./test.PNG)
 
 ## Zurück
 
