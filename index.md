@@ -2,9 +2,9 @@
 
 ## Alle Sprints
 
-* [Sprint 1](./Sprint1.htm)
-* [Sprint 2](./Sprint2.htm)
-* [Sprint 3](./Sprint3.htm)
-* [Sprint 4](./Sprint4.htm)
+* [Sprint 1](./sprint1)
+* [Sprint 2](./sprint2)
+* [Sprint 3](./sprint3)
+* [Sprint 4](./sprint4)
 * [Sprint 5](./sprint5)
 * [Sprint 6](./sprint6)
