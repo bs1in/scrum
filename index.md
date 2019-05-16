@@ -1,5 +1,7 @@
 # Inventarisierungsprojekt
 
+* Board: [https://github.com/bs1in/scrum/projects/1](https://github.com/bs1in/scrum/projects/1)
+
 ## Alle Sprints
 
 * [Sprint 1](./sprint1)
