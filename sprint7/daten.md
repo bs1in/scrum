@@ -1,8 +1,10 @@
 # API Formate
 
-Alle Daten werden im JSON Format kommuniziert.#
+Alle Daten werden im JSON Format kommuniziert.
 
 ## Geräte
+
+Typespec:
 
 ```ts
 type Device = {
@@ -15,6 +17,25 @@ type Device = {
 	"location": {
 		"name": string,
 		"description": string
+	}
+}
+```
+
+Beispiel:
+
+```json
+{
+	"id": "2356354556",
+	"name": "Notenrechner Lehrer"
+	"description": "Zentraler Notenrechner im Lehrerzimmer"
+	"attributes": {
+		"Nur Lehrer": "Ja",
+		"Passwortgeschützt": "Ja",
+		"Betriebssystem": "Windows 2000"
+	},
+	"location": {
+		"name": "Lehrerzimmer",
+		"description": "Keine Schüler (offiziell) erlaubt!"
 	}
 }
 ```
