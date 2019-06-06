@@ -10,3 +10,9 @@
 * [Sprint 4](./sprint4)
 * [Sprint 5](./sprint5)
 * [Sprint 6](./sprint6)
+* [Sprint 7](./sprint7)
+* [Sprint 8](./sprint8)
+
+## Andere Dokumente
+
+* [Typenspezifizierung](./daten)
