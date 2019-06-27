@@ -12,6 +12,7 @@
 * [Sprint 6](./sprint6)
 * [Sprint 7](./sprint7)
 * [Sprint 8](./sprint8)
+* [Sprint 9](./sprint9)
 
 ## Andere Dokumente
 
