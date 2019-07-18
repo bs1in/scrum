@@ -17,4 +17,4 @@
 ## Andere Dokumente
 
 * [Typenspezifizierung](./daten)
-* [Projektdokumentation](./readme)
+* [Projektdokumentation](./doku)
